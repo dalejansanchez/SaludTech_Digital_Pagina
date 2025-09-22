@@ -1,0 +1,94 @@
+{
+    "servicios": [
+      {
+        "id": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "imagen": "images/teleconsulta.png",
+        "descripcion": "Consulta con médicos generales y especialistas a través de videollamada. Disponible 24/7.",
+        "cantidad": 150,
+        "promocion": true
+      },
+      {
+        "id": 2,
+        "nombre": "Nutrición Digital",
+        "precio": "65.000 COP",
+        "imagen": "images/nutricion.png",
+        "descripcion": "Planes de alimentación personalizados y seguimiento con nutricionistas certificados.",
+        "cantidad": 120,
+        "promocion": false
+      },
+      {
+        "id": 3,
+        "nombre": "Terapia Psicológica Online",
+        "precio": "95.000 COP",
+        "imagen": "images/terapia.png",
+        "descripcion": "Sesiones de terapia con psicólogos especializados en salud mental y emocional.",
+        "cantidad": 80,
+        "promocion": true
+      },
+      {
+        "id": 4,
+        "nombre": "Chequeo Preventivo",
+        "precio": "120.000 COP",
+        "imagen": "images/chequeo.png",
+        "descripcion": "Evaluación de salud general, con recomendaciones personalizadas y seguimiento en línea.",
+        "cantidad": 100,
+        "promocion": false
+      },
+      {
+        "id": 5,
+        "nombre": "Vacunación a Domicilio",
+        "precio": "150.000 COP",
+        "imagen": "images/vacunacion.png",
+        "descripcion": "Servicio de vacunación a domicilio para toda la familia, con agendamiento online.",
+        "cantidad": 50,
+        "promocion": false
+      },
+      {
+        "id": 6,
+        "nombre": "Dermatología Online",
+        "precio": "90.000 COP",
+        "imagen": "images/dermatologia.png",
+        "descripcion": "Diagnóstico y tratamiento de afecciones de la piel, con recetas médicas digitales.",
+        "cantidad": 75,
+        "promocion": true
+      },
+      {
+        "id": 7,
+        "nombre": "Clases de Yoga Online",
+        "precio": "45.000 COP",
+        "imagen": "images/yoga.png",
+        "descripcion": "Sesiones de yoga guiadas en vivo para mejorar el bienestar físico y mental.",
+        "cantidad": 200,
+        "promocion": false
+      },
+      {
+        "id": 8,
+        "nombre": "Fisioterapia Virtual",
+        "precio": "110.000 COP",
+        "imagen": "images/fisioterapia.png",
+        "descripcion": "Sesiones de rehabilitación guiadas por un fisioterapeuta, en vivo o pregrabadas.",
+        "cantidad": 60,
+        "promocion": false
+      },
+      {
+        "id": 9,
+        "nombre": "Planes de Bienestar Empresarial",
+        "precio": "300.000 COP",
+        "imagen": "images/bienestar.png",
+        "descripcion": "Paquetes de bienestar corporativo con talleres de salud mental y física para empleados.",
+        "cantidad": 20,
+        "promocion": true
+      },
+      {
+        "id": 10,
+        "nombre": "Seguimiento Pediátrico",
+        "precio": "85.000 COP",
+        "imagen": "images/pediatria.png",
+        "descripcion": "Consultas y seguimiento del desarrollo infantil con pediatras especializados.",
+        "cantidad": 90,
+        "promocion": false
+      }
+    ]
+  }
