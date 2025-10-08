@@ -1,0 +1,196 @@
+[
+  {
+    "id": "ce3341c1-c62d-4c83-83b8-eb9c3c6d8b08",
+    "userId": "2fb3fa78-5aed-4cc7-83dc-a5ef9a336e26",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 1,
+        "lineTotal": 80000
+      }
+    ],
+    "total": 80000,
+    "createdAt": "2025-10-07T23:29:00.862Z"
+  },
+  {
+    "id": "d8830351-ae61-43ad-84df-5308e74ed379",
+    "userId": "4bcfbf1a-7b2c-4150-ac2c-a1c136b6c7ef",
+    "items": [
+      {
+        "servicioId": 2,
+        "nombre": "Nutrición Digital",
+        "precio": "65.000 COP",
+        "qty": 1,
+        "lineTotal": 65000
+      }
+    ],
+    "total": 65000,
+    "createdAt": "2025-10-07T23:53:46.612Z"
+  },
+  {
+    "id": "57262636-c5e8-4c71-b26a-6ce73b5eaee7",
+    "userId": "4bcfbf1a-7b2c-4150-ac2c-a1c136b6c7ef",
+    "items": [
+      {
+        "servicioId": 3,
+        "nombre": "Terapia Psicológica Online",
+        "precio": "95.000 COP",
+        "qty": 2,
+        "lineTotal": 190000
+      }
+    ],
+    "total": 190000,
+    "createdAt": "2025-10-08T00:11:42.475Z"
+  },
+  {
+    "id": "9f04932f-038b-490b-a890-cba9b6deab89",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T01:41:43.672Z"
+  },
+  {
+    "id": "a4f2cdba-8ace-41b0-ad78-09094dc5d7ea",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T01:46:56.831Z"
+  },
+  {
+    "id": "903ac7c0-db04-4851-a676-79042e2e7e53",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T01:52:26.167Z"
+  },
+  {
+    "id": "dee38843-a0ec-49a1-89ac-3abb6b01c707",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T01:53:14.640Z"
+  },
+  {
+    "id": "89bc7c2c-3aed-4bfa-98b0-9f4a01044a0f",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T03:39:38.562Z"
+  },
+  {
+    "id": "a574fb0c-40cf-4531-b29a-d673eb68b9f7",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T03:48:29.197Z"
+  },
+  {
+    "id": "ceaa480b-d534-445b-afd3-4283002eebf6",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T03:49:36.426Z"
+  },
+  {
+    "id": "02ce4790-bcc8-40eb-9ce7-89252c4102a4",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 2,
+        "lineTotal": 160000
+      }
+    ],
+    "total": 160000,
+    "createdAt": "2025-10-08T03:52:32.922Z"
+  },
+  {
+    "id": "f9641022-d5fa-45e0-bb6e-c8a3a988cead",
+    "userId": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "items": [
+      {
+        "servicioId": 1,
+        "nombre": "Teleconsulta Médica",
+        "precio": "80.000 COP",
+        "qty": 1,
+        "lineTotal": 80000
+      },
+      {
+        "servicioId": 2,
+        "nombre": "Nutrición Digital",
+        "precio": "65.000 COP",
+        "qty": 1,
+        "lineTotal": 65000
+      },
+      {
+        "servicioId": 4,
+        "nombre": "Chequeo Preventivo",
+        "precio": "120.000 COP",
+        "qty": 1,
+        "lineTotal": 120000
+      }
+    ],
+    "total": 265000,
+    "createdAt": "2025-10-08T04:05:57.090Z"
+  }
+]

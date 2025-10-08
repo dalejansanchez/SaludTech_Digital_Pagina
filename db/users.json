@@ -1,0 +1,38 @@
+[
+  {
+    "id": "admin-1",
+    "email": "admin@saludtech.test",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": "2fb3fa78-5aed-4cc7-83dc-a5ef9a336e26",
+    "email": "test@user.test",
+    "password": "secret",
+    "role": "client"
+  },
+  {
+    "id": "330a3c4f-b3b8-4e88-830d-f823acb2eafd",
+    "email": "uiuser@demo.test",
+    "password": "pass123",
+    "role": "client"
+  },
+  {
+    "id": "4bcfbf1a-7b2c-4150-ac2c-a1c136b6c7ef",
+    "email": "buyer@demo.test",
+    "password": "buy123",
+    "role": "client"
+  },
+  {
+    "id": "5dda5087-c0ef-4e88-ac58-1173764a2919",
+    "email": "cors-test@demo.test",
+    "password": "1234",
+    "role": "client"
+  },
+  {
+    "id": "776c1e90-0f19-4154-9d0b-8e123f9b18e9",
+    "email": "david123@david.com",
+    "password": "123456",
+    "role": "client"
+  }
+]

@@ -20,11 +20,21 @@
                     <li><a href="servicios.html">Servicios</a></li>
                     <li><a href="login.html">Login</a></li>
                 </ul>
+                <div class="nav-controls">
+                    <button id="cart-toggle-btn" aria-expanded="false" aria-controls="cart-container">Carrito <span id="cart-toggle-count">(0)</span></button>
+                </div>
             </nav>
         </header>
 
         <main class="service-detail-content">
-            </main>
+            <div class="page-grid">
+                <div id="service-detail-inner" class="service-detail-inner">
+                </div>
+                <aside id="cart-container" class="cart-container">
+                    <!-- El carrito se renderiza aquí -->
+                </aside>
+            </div>
+        </main>
         
         <footer>
             <div class="footer-content">
@@ -36,6 +46,8 @@
 
     </div>
 
+    <script src="js/session.js"></script>
+    <script src="js/cart.js"></script>
     <script src="js/service-detail.js"></script>
 
 </body>

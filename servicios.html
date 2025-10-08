@@ -18,12 +18,21 @@
                     <li><a href="servicios.html">Servicios</a></li>
                     <li><a href="login.html">Login</a></li>
                 </ul>
+                <!-- Botón visible para abrir/ocultar el carrito -->
+                <div class="nav-controls">
+                    <button id="cart-toggle-btn" aria-expanded="false" aria-controls="cart-container">Carrito <span id="cart-toggle-count">(0)</span></button>
+                </div>
             </nav>
         </header>
         <main class="services-page-content">
             <h1>Nuestro Catálogo de Servicios</h1>
             <p>Descubre todas nuestras soluciones de salud digital para ti.</p>
-            <div class="services-container">
+            <div class="page-grid">
+                <div class="services-container">
+                </div>
+                <aside id="cart-container" class="cart-container">
+                    <!-- El carrito se renderiza aquí -->
+                </aside>
             </div>
         </main>
         <footer>
@@ -34,6 +43,9 @@
             </div>
         </footer>
     </div>
+    <script src="js/debug.js"></script>
+    <script src="js/session.js"></script>
+    <script src="js/cart.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>

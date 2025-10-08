@@ -49,6 +49,25 @@ header {
     font-weight: bold;
 }
 
+/* Controls area in navbar */
+.nav-controls {
+    margin-left: 20px;
+}
+
+#cart-toggle-btn {
+    background: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#cart-toggle-btn[aria-expanded="true"] {
+    background: #ff4b4b;
+}
+
 /* Estilos de las tarjetas de servicios */
 .services-container {
     display: grid;
@@ -299,4 +318,64 @@ footer {
 
 .services-table .action-icon.delete {
     color: #dc3545;
+}
+
+/* Layout con carrito */
+.page-grid {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 20px;
+}
+
+.cart-container {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+    height: fit-content;
+}
+
+/* Hidden by default on small screens; visible class toggles */
+.cart-container {
+    transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.cart-container.cart-empty {
+    opacity: 0.9;
+}
+
+.cart-container.cart-visible {
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.cart-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cart-container li {
+    margin-bottom: 10px;
+}
+
+.cart-container button {
+    margin-left: 10px;
+}
+
+@media (max-width: 900px) {
+    .page-grid {
+        grid-template-columns: 1fr;
+    }
+    /* On small screens the cart stays inline (no overlay) to avoid blocking UX */
+    .cart-container {
+        position: static;
+        width: 100%;
+        max-height: none;
+        overflow: visible;
+        transform: none;
+        opacity: 1;
+        z-index: auto;
+        margin-top: 20px;
+    }
+
+    /* visible state has no special transform on mobile */
 }
